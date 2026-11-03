@@ -14,6 +14,8 @@
   "keywords": [],
   "type": "module",
   "dependencies": {
+    "@arcjet/inspect": "^1.15.0",
+    "@arcjet/node": "^1.15.0",
     "@neondatabase/serverless": "^1.2.0",
     "cors": "^2.8.6",
     "dotenv": "^18.0.8",
